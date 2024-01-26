@@ -6,7 +6,7 @@ subtitle: Senior Research Engineer at <a href='https://allenai.org/'>AI2</a>.
 
 profile:
   align: right
-  image: profile_pic.jpeg
+  image: prof_pic1.jpeg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
@@ -21,7 +21,7 @@ I am a Senior Research Engineer on the [AllenNLP](https://allennlp.org/) team, i
 * model training and inference (paper and artifacts forthcoming)
 * evaluation [tools](https://github.com/allenai/ai2-olmo-eval) and [benchmark](https://api.semanticscholar.org/CorpusID:266348815)
 
-I also work on open-source libraries such as [allennlp](https://github.com/allenai/allennlp), [ai2-tango](https://github.com/allenai/tango), etc. 
+I have also worked on open-source libraries such as [allennlp](https://github.com/allenai/allennlp), [ai2-tango](https://github.com/allenai/tango), etc. 
 
 I graduated with a Master's degree in Computer Science from the University of Massachusetts Amherst in 2020, where I worked with Prof. Mohit Iyyer at the intersection of NLP and digital humanities.
 

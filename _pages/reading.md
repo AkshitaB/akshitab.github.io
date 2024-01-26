@@ -7,6 +7,12 @@ nav: false
 nav_order: 4
 ---
 
+2024
+
+* Weyward - Emilia Hart
+* Lady Tan's Circle of Women - Lisa See
+
+
 2023
 
 * Poison For Breakfast - Lemony Snicket

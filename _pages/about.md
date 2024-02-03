@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 I am a Senior Research Engineer on the [AllenNLP](https://allennlp.org/) team, involved in R&D for natural language processing (NLP). Most recently, I have been working on the [OLMo project](https://allenai.org/olmo), where I have contributed to 
 
 * [pretraining dataset](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64) construction
-* model training and inference (paper and artifacts forthcoming)
+* [model training](https://arxiv.org/abs/2402.00838) and [inference](https://huggingface.co/datasets/allenai/OLMo-7B)
 * evaluation [tools](https://github.com/allenai/ai2-olmo-eval) and [benchmark](https://api.semanticscholar.org/CorpusID:266348815)
 
 I have also worked on open-source libraries such as [allennlp](https://github.com/allenai/allennlp), [ai2-tango](https://github.com/allenai/tango), etc. 

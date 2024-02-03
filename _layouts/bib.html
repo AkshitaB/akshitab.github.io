@@ -187,8 +187,13 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {%- if entry.model %}
+            <a href="{{ entry.model }}" class="btn btn-sm z-depth-0" role="button">Model</a>
+          {%- endif %}
+          <br>
           {%- if entry.press %}
-            <a href="{{ entry.press }}" class="btn btn-sm z-depth-0" role="button">Press</a>
+            <!--a href="{{ entry.press }}" class="btn btn-sm z-depth-0" role="button">Press</a-->
+            Press: {{ entry.press }}
           {%- endif %}
           </div>
           {% if site.badges %}

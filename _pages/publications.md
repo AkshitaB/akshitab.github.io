@@ -9,6 +9,9 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 Also see my [Semantic Scholar](https://www.semanticscholar.org/author/Akshita-Bhagia/2166136235) and [Google Scholar](https://scholar.google.com/citations?user=fzH3_G4AAAAJ) profiles.
+
+<sup>† indicates core contributors</sup> 
+
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}

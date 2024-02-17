@@ -9,6 +9,10 @@ nav_order: 4
 
 2024
 
+* Legends and Lattes - Travis Baldree
+* Idol, Burning - Rin Usami
+* A Year in Tōkyō: An Illustrated Guide and Memoir - Christy Anne Jones
+* Julia and the Shark - Kiran Millwood Hargrave
 * Weyward - Emilia Hart
 * Lady Tan's Circle of Women - Lisa See
 

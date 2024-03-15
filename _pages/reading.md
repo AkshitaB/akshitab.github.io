@@ -9,6 +9,8 @@ nav_order: 4
 
 2024
 
+* A Lab of One's Own: One Woman's Personal Journey Through Sexism in Science - Rita Colwell
+* Convenience Store Woman - Sayaka Murata
 * Legends and Lattes - Travis Baldree
 * Idol, Burning - Rin Usami
 * A Year in Tōkyō: An Illustrated Guide and Memoir - Christy Anne Jones

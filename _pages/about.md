@@ -7,7 +7,7 @@ subtitle: Senior Research Engineer at <a href='https://allenai.org/'>AI2</a>.
 profile:
   align: right
   image: prof_pic1.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,7 +23,7 @@ I am a Senior Research Engineer on the [AllenNLP](https://allennlp.org/) team, i
 
 I have also worked on open-source libraries such as [allennlp](https://github.com/allenai/allennlp), [ai2-tango](https://github.com/allenai/tango), etc. 
 
-I graduated with a Master's degree in Computer Science from the University of Massachusetts Amherst in 2020, where I worked with Prof. Mohit Iyyer at the intersection of NLP and digital humanities.
+I graduated with a Master's degree in Computer Science from the University of Massachusetts Amherst in 2020, where I worked with Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) at the intersection of NLP and digital humanities.
 
 <!-- During my Master's at UMass Amherst, I worked with Prof. Mohit Iyyer on interpreting what neural models learn about stylistic content in fictional text, and with Prof. Eric Poehler from UMass Classics department to automate dataset construction and build an interface to explore art and architecture of Pompeii (ancient Roman city). I also collaborated with Scripps Research to improve the quality of crowd-sourced annotations in biomedical text using graphical models, for better named entity recognition. -->
 

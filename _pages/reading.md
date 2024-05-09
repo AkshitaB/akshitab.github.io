@@ -9,6 +9,7 @@ nav_order: 4
 
 2024
 
+* Release - Lucy Christopher
 * Slow Productivity - Cal Newport
 * A Lab of One's Own: One Woman's Personal Journey Through Sexism in Science - Rita Colwell
 * Convenience Store Woman - Sayaka Murata

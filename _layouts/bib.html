@@ -193,7 +193,11 @@
           <br>
           {%- if entry.press %}
             <!--a href="{{ entry.press }}" class="btn btn-sm z-depth-0" role="button">Press</a-->
-            Press: {{ entry.press }}
+            Press:{{ entry.press }}
+          {%- endif %}
+          <br>
+          {%- if entry.awards %}
+            {{ entry.awards }}
           {%- endif %}
           </div>
           {% if site.badges %}

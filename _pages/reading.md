@@ -9,6 +9,7 @@ nav_order: 4
 
 2024
 
+* Welcome to the Hyunam-Dong Bookshop - Hwang Bo Reum (Translated by Shanna Tan)
 * Release - Lucy Christopher
 * Slow Productivity - Cal Newport
 * A Lab of One's Own: One Woman's Personal Journey Through Sexism in Science - Rita Colwell

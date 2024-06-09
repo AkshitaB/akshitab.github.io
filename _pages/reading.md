@@ -9,6 +9,7 @@ nav_order: 4
 
 2024
 
+* She Who Became the Sun - Shelley Parker-Chan
 * Welcome to the Hyunam-Dong Bookshop - Hwang Bo Reum (Translated by Shanna Tan)
 * Release - Lucy Christopher
 * Slow Productivity - Cal Newport

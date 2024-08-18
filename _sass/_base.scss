@@ -695,16 +695,21 @@ footer.sticky-bottom {
             }
           }
         }
-
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
       }
 
       .title {
         font-weight: bolder;
       }
+
+      .award {
+          color: var(--global-text-color) !important;
+          //background-color: var(--global-theme-color) !important;
+          //border: 1px solid var(--global-theme-color);
+          border-radius: 5px;
+          font-weight: bolder;
+          padding: 2px;
+          font-size: 0.875rem;
+        }
 
       .author {
         a {

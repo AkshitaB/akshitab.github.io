@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Panelist at the Open Source AI panel at the [AI/ALL Summit: Future of Equitable and Inclusive AI](https://lu.ma/mxcx5bia) co-located with ACL 2024.
+Panelist on the Open Source AI panel at the [AI/ALL Summit: Future of Equitable and Inclusive AI](https://lu.ma/mxcx5bia) co-located with ACL 2024.

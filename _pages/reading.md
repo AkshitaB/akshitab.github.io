@@ -7,6 +7,12 @@ nav: false
 nav_order: 4
 ---
 
+2025
+
+* A Woman in Berlin - Anonymous
+* The God of the Woods - Liz Moore
+* The Wood at Midwinter - Susanna Clarke (Illustrated by Victoria Sawdon)
+
 2024
 
 * The Clockmaker's Daughter - Kate Morton

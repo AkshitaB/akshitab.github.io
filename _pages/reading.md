@@ -9,6 +9,7 @@ nav_order: 4
 
 2025
 
+* Nails and Eyes - Kaori Fujino
 * A Woman in Berlin - Anonymous
 * The God of the Woods - Liz Moore
 * The Wood at Midwinter - Susanna Clarke (Illustrated by Victoria Sawdon)

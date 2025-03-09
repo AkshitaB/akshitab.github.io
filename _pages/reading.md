@@ -9,6 +9,7 @@ nav_order: 4
 
 2025
 
+* The Mistress of Bhatia House (Perveen Mistry, #4) - Sujata Massey
 * Nails and Eyes - Kaori Fujino
 * A Woman in Berlin - Anonymous
 * The God of the Woods - Liz Moore
@@ -48,7 +49,7 @@ nav_order: 4
 * Stardust - Neil Gaiman
 * The Emissary - Yoko Tawada
 * Victoria - Daisy Goodwin 
-* The Bombay Prince - Sujata Massey
+* The Bombay Prince (Perveen Mistry, #3) - Sujata Massey
 * The Secret Commonwealth - Philip Pullman 
 * La Belle Sauvage - Philip Pullman 
 * Kaikeyi - Vaishnavi Patel

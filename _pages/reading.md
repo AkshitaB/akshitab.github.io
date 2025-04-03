@@ -9,6 +9,7 @@ nav_order: 4
 
 2025
 
+* The Wall - Marlen Haushofer (Translated by Shaun Whiteside)
 * Orbital - Samantha Harvey
 * The Blythes Are Quoted - L. M. Montgomery
 * The Mistress of Bhatia House (Perveen Mistry, #4) - Sujata Massey

@@ -29,4 +29,6 @@ I graduated with a Master's degree in Computer Science from the University of Ma
 
 Previously, I have worked at Cerebellum Capital (Summer 2019), and at [InFoCusp](https://infocusp.in) (2015-2018).
 
+[Talk Bio](assets/txt/talk_bio.txt)
+
 <!-- In my spare time, I enjoy [reading](/reading) novels, [writing]({{site.wordpress_url}}) (especially poetry), and [dancing]({{site.youtube_dance_list}}). -->

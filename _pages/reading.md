@@ -9,6 +9,12 @@ nav_order: 4
 
 2025
 
+* The Covenant of Water - Abraham Verghese
+* Katabasis - R. F. Kuang
+* Devotions - Mary Oliver
+* The Hero of Ages - Brandon Sanderson
+* The Backyard Bird Chronicles - Amy Tan
+* The Well of Ascension - Brandon Sanderson
 * The Wall - Marlen Haushofer (Translated by Shaun Whiteside)
 * Orbital - Samantha Harvey
 * The Blythes Are Quoted - L. M. Montgomery
@@ -20,6 +26,7 @@ nav_order: 4
 
 2024
 
+* The Final Empire - Brandon Sanderson
 * The Clockmaker's Daughter - Kate Morton
 * A Good Girl's Guide to Murder - Holly Jackson
 * He Who Drowned the World - Shelley Parker-Chan

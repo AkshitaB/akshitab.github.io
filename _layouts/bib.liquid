@@ -256,6 +256,13 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
+    {% if entry.press %}
+      <!-- Press links -->
+      <div class="press mt-2">
+        <strong>Press:</strong>
+        {{ entry.press }}
+      </div>
+    {% endif %}
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}

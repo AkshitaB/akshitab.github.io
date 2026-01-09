@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-09'
 papers:
   fzH3_G4AAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -10,11 +10,11 @@ papers:
     title: 'Datadecide: How to predict best pretraining data with small experiments'
     year: '2025'
   fzH3_G4AAAAJ:4TOpqqG69KYC:
-    citations: 0
+    citations: 1
     title: Olmo 3
     year: '2025'
   fzH3_G4AAAAJ:5nxA0vEk-isC:
-    citations: 299
+    citations: 304
     title: 2 OLMo 2 Furious
     year: '2024'
   fzH3_G4AAAAJ:9yKSN-GCB0IC:
@@ -26,7 +26,7 @@ papers:
     title: 'Catwalk: A unified language model evaluation framework for many datasets'
     year: '2023'
   fzH3_G4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 583
+    citations: 584
     title: 'Olmo: Accelerating the science of language models'
     year: '2024'
   fzH3_G4AAAAJ:ULOm3_A8WrAC:
@@ -50,15 +50,15 @@ papers:
     title: 'HINT: Hypernetwork Instruction Tuning for Efficient Zero-& Few-Shot Generalisation'
     year: '2022'
   fzH3_G4AAAAJ:qjMakFHDy7sC:
-    citations: 165
+    citations: 166
     title: What's In My Big Data?
     year: '2023'
   fzH3_G4AAAAJ:roLk4NBRz8UC:
-    citations: 111
+    citations: 114
     title: 'Olmoe: Open mixture-of-experts language models'
     year: '2024'
   fzH3_G4AAAAJ:u-x6o8ySG0sC:
-    citations: 8
+    citations: 7
     title: Continued pretraining for better zero-and few-shot promptability
     year: '2022'
   fzH3_G4AAAAJ:u5HHmVD_uO8C:
@@ -66,6 +66,6 @@ papers:
     title: 'On advances in text generation from images beyond captioning: A case study in self-rationalization'
     year: '2022'
   fzH3_G4AAAAJ:zYLM7Y9cAGgC:
-    citations: 411
+    citations: 413
     title: 'Dolma: An open corpus of three trillion tokens for language model pretraining research'
     year: '2024'

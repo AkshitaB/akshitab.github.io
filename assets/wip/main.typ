@@ -1,7 +1,7 @@
 // CV in Typst — Akshita Bhagia
 // Inspired by basic-typst-resume-template (stuxf)
 
-#let accent-color = rgb("#191970") // MidnightBlue
+#let accent-color = rgb("#176326") // MidnightBlue
 
 #set document(title: "Akshita Bhagia - CV", author: "Akshita Bhagia")
 #set page(
@@ -94,8 +94,8 @@
 )
 - Academic R&D in natural language processing (NLP). See list below for publications.
   - *Open Language Model (OLMo)*: Core contributions in dataset creation, model training, evaluation, and inference.
-  - *Open-source libraries*: #link("https://github.com/allenai/OLMo")[OLMo], #link("https://github.com/allenai/dolma")[dolma], #link("https://github.com/allenai/ai2-olmo-eval")[ai2-olmo-eval], #link("https://github.com/allenai/wimbd")[wimbd], #link("https://github.com/allenai/catwalk")[ai2-catwalk], #link("https://github.com/allenai/allennlp")[allennlp], #link("https://github.com/allenai/tango")[ai2-tango], #link("https://github.com/allenai/tailor")[ai2-tailor]
-  - *Datasets*: #link("https://huggingface.co/datasets/allenai/paloma")[PALOMA], #link("https://huggingface.co/datasets/allenai/dolma")[DOLMa], #link("https://huggingface.co/datasets/allenai/wmt22_african")[WMT22 African (release)], #link("https://huggingface.co/datasets/allenai/nllb")[No Language Left Behind NLLB (release)]
+  // - *Open-source libraries*: #link("https://github.com/allenai/OLMo")[OLMo], #link("https://github.com/allenai/dolma")[dolma], #link("https://github.com/allenai/ai2-olmo-eval")[ai2-olmo-eval], #link("https://github.com/allenai/wimbd")[wimbd], #link("https://github.com/allenai/catwalk")[ai2-catwalk], #link("https://github.com/allenai/allennlp")[allennlp], #link("https://github.com/allenai/tango")[ai2-tango], #link("https://github.com/allenai/tailor")[ai2-tailor]
+  // - *Datasets*: #link("https://huggingface.co/datasets/allenai/paloma")[PALOMA], #link("https://huggingface.co/datasets/allenai/dolma")[DOLMa], #link("https://huggingface.co/datasets/allenai/wmt22_african")[WMT22 African (release)], #link("https://huggingface.co/datasets/allenai/nllb")[No Language Left Behind NLLB (release)]
 
 #work(
   company: "Cerebellum Capital", location: "San Francisco, CA",
@@ -174,7 +174,7 @@ NLP for Cultural Analytics, Machine Learning, Neural Networks, Deep Learning for
 
 // Hidden bibliography (loads bib data but doesn't render)
 #show bibliography: none
-#bibliography(("publications_peer_reviewed.bib", "publications_workshops_preprints.bib"))
+#bibliography(("publications_peer_reviewed.bib", "publications_workshops_preprints.bib"), style: "cv.csl")
 
 // ========== SERVICE ==========
 

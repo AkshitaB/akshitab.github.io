@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-03-09'
 papers:
   fzH3_G4AAAAJ:0EnyYjriUFMC:
-    citations: 5
+    citations: 6
     title: Establishing task scaling laws via compute-efficient model ladders
     year: '2024'
   fzH3_G4AAAAJ:3fE2CSJIrl8C:
@@ -10,31 +10,35 @@ papers:
     title: 'Datadecide: How to predict best pretraining data with small experiments'
     year: '2025'
   fzH3_G4AAAAJ:4TOpqqG69KYC:
-    citations: 1
+    citations: 13
     title: Olmo 3
     year: '2025'
   fzH3_G4AAAAJ:5nxA0vEk-isC:
-    citations: 319
+    citations: 404
     title: 2 OLMo 2 Furious
     year: '2024'
   fzH3_G4AAAAJ:9yKSN-GCB0IC:
-    citations: 22
+    citations: 23
     title: "Findings of the WMT\u201922 shared task on large-scale machine translation evaluation for African languages"
     year: '2022'
   fzH3_G4AAAAJ:IjCSPb-OGe4C:
     citations: 3
     title: 'Catwalk: A unified language model evaluation framework for many datasets'
     year: '2023'
+  fzH3_G4AAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: How to Predict Best Pretraining Data with Small Experiments
+    year: Unknown Year
   fzH3_G4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 598
+    citations: 655
     title: 'Olmo: Accelerating the science of language models'
     year: '2024'
   fzH3_G4AAAAJ:ULOm3_A8WrAC:
-    citations: 4
+    citations: 7
     title: "2 OLMo 2 Furious (COLM\u2019s Version)"
     year: '2025'
   fzH3_G4AAAAJ:UeHWp8X0CEIC:
-    citations: 53
+    citations: 49
     title: 'Paloma: A benchmark for evaluating language model fit'
     year: '2023'
   fzH3_G4AAAAJ:W7OEmFMy1HYC:
@@ -42,19 +46,19 @@ papers:
     title: Robust Tooling and New Resources for Large Language Model Evaluation via Catwalk
     year: Unknown Year
   fzH3_G4AAAAJ:Zph67rFs4hoC:
-    citations: 5
+    citations: 9
     title: 'Flexolmo: Open language models for flexible data use'
     year: '2025'
   fzH3_G4AAAAJ:d1gkVwhDpl0C:
-    citations: 40
+    citations: 44
     title: 'HINT: Hypernetwork Instruction Tuning for Efficient Zero-& Few-Shot Generalisation'
     year: '2022'
   fzH3_G4AAAAJ:qjMakFHDy7sC:
-    citations: 173
+    citations: 183
     title: What's In My Big Data?
     year: '2023'
   fzH3_G4AAAAJ:roLk4NBRz8UC:
-    citations: 120
+    citations: 144
     title: 'Olmoe: Open mixture-of-experts language models'
     year: '2024'
   fzH3_G4AAAAJ:u-x6o8ySG0sC:
@@ -66,6 +70,6 @@ papers:
     title: 'On advances in text generation from images beyond captioning: A case study in self-rationalization'
     year: '2022'
   fzH3_G4AAAAJ:zYLM7Y9cAGgC:
-    citations: 428
+    citations: 462
     title: 'Dolma: An open corpus of three trillion tokens for language model pretraining research'
     year: '2024'

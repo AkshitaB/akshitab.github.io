@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-11'
 papers:
   fzH3_G4AAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -14,7 +14,7 @@ papers:
     title: Olmo 3
     year: '2025'
   fzH3_G4AAAAJ:5nxA0vEk-isC:
-    citations: 404
+    citations: 405
     title: 2 OLMo 2 Furious
     year: '2024'
   fzH3_G4AAAAJ:9yKSN-GCB0IC:
@@ -38,7 +38,7 @@ papers:
     title: "2 OLMo 2 Furious (COLM\u2019s Version)"
     year: '2025'
   fzH3_G4AAAAJ:UeHWp8X0CEIC:
-    citations: 49
+    citations: 50
     title: 'Paloma: A benchmark for evaluating language model fit'
     year: '2023'
   fzH3_G4AAAAJ:W7OEmFMy1HYC:
@@ -70,6 +70,6 @@ papers:
     title: 'On advances in text generation from images beyond captioning: A case study in self-rationalization'
     year: '2022'
   fzH3_G4AAAAJ:zYLM7Y9cAGgC:
-    citations: 462
+    citations: 463
     title: 'Dolma: An open corpus of three trillion tokens for language model pretraining research'
     year: '2024'

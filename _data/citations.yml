@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-01'
 papers:
   fzH3_G4AAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -14,7 +14,7 @@ papers:
     title: Olmo 3
     year: '2025'
   fzH3_G4AAAAJ:5nxA0vEk-isC:
-    citations: 464
+    citations: 465
     title: 2 OLMo 2 Furious
     year: '2024'
   fzH3_G4AAAAJ:9yKSN-GCB0IC:
@@ -26,11 +26,11 @@ papers:
     title: 'Catwalk: A unified language model evaluation framework for many datasets'
     year: '2023'
   fzH3_G4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 704
+    citations: 705
     title: 'Olmo: Accelerating the science of language models'
     year: '2024'
   fzH3_G4AAAAJ:UeHWp8X0CEIC:
-    citations: 52
+    citations: 53
     title: 'Paloma: A benchmark for evaluating language model fit'
     year: '2023'
   fzH3_G4AAAAJ:W7OEmFMy1HYC:
@@ -50,15 +50,15 @@ papers:
     title: 'HINT: Hypernetwork Instruction Tuning for Efficient Zero-& Few-Shot Generalisation'
     year: '2022'
   fzH3_G4AAAAJ:qjMakFHDy7sC:
-    citations: 192
+    citations: 193
     title: What's In My Big Data?
     year: '2023'
   fzH3_G4AAAAJ:qxL8FJ1GzNcC:
-    citations: 43
+    citations: 44
     title: Olmo 3
     year: '2025'
   fzH3_G4AAAAJ:roLk4NBRz8UC:
-    citations: 162
+    citations: 163
     title: 'Olmoe: Open mixture-of-experts language models'
     year: '2024'
   fzH3_G4AAAAJ:u-x6o8ySG0sC:

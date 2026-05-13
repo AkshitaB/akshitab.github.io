@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-13'
 papers:
   fzH3_G4AAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -9,8 +9,12 @@ papers:
     citations: 21
     title: 'Datadecide: How to predict best pretraining data with small experiments'
     year: '2025'
+  fzH3_G4AAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: 'EMO: Pretraining Mixture of Experts for Emergent Modularity'
+    year: '2026'
   fzH3_G4AAAAJ:5nxA0vEk-isC:
-    citations: 469
+    citations: 473
     title: 2 OLMo 2 Furious
     year: '2024'
   fzH3_G4AAAAJ:9yKSN-GCB0IC:
@@ -22,7 +26,7 @@ papers:
     title: 'Catwalk: A unified language model evaluation framework for many datasets'
     year: '2023'
   fzH3_G4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 707
+    citations: 713
     title: 'Olmo: Accelerating the science of language models'
     year: '2024'
   fzH3_G4AAAAJ:UeHWp8X0CEIC:
@@ -46,11 +50,11 @@ papers:
     title: 'HINT: Hypernetwork Instruction Tuning for Efficient Zero-& Few-Shot Generalisation'
     year: '2022'
   fzH3_G4AAAAJ:qjMakFHDy7sC:
-    citations: 194
+    citations: 195
     title: What's In My Big Data?
     year: '2023'
   fzH3_G4AAAAJ:qxL8FJ1GzNcC:
-    citations: 70
+    citations: 73
     title: Olmo 3
     year: '2025'
   fzH3_G4AAAAJ:roLk4NBRz8UC:
@@ -66,6 +70,6 @@ papers:
     title: 'On advances in text generation from images beyond captioning: A case study in self-rationalization'
     year: '2022'
   fzH3_G4AAAAJ:zYLM7Y9cAGgC:
-    citations: 500
+    citations: 508
     title: 'Dolma: An open corpus of three trillion tokens for language model pretraining research'
     year: '2024'
